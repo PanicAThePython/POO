@@ -1,12 +1,9 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
 ------------------------------------------------------------------------
 
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+TITULO DO PROJETO: Matematica
+OBJETIVO DO PROJETO: Fazer funções que resolvam problemas matemáticos
+VERSÃO ou DATA: 01/09/2020
+COMO INICIAR O PROJETO: Basta baixar o BlueJ e abrir este projeto
+AUTORA: Natália Sens Weise
+
+------------------------------------------------------------------------
