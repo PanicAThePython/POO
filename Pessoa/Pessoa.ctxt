@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ @author\ nat\u00E1lia\r\n
+comment1.params=nome\ sexo\ dataNasc
+comment1.target=Pessoa(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Pessoa\r\n
+comment2.params=estado
+comment2.target=void\ setEstadoCivil(java.lang.String)
+comment2.text=\r\n\ Exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\ \r\n\ @param\ \ y\ \ \ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\ \r\n
+numComments=3
