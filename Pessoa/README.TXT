@@ -1,12 +1,9 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
 
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+TITULO DO PROJETO: Pessoa
+OBJETIVO DO PROJETO: criar uma Classe Pessoa
+VERSÃO ou DATA: 23/08/2020
+COMO INICIAR O PROJETO: Basta baixar o BlueJ e abrir esse projeto
+AUTORA: Natália Sens Weise
+
+------------------------------------------------------------------------
